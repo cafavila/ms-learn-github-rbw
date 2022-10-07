@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	background-color: black;
 	color: green;
+	margin-top: 5px;
 }
 ol, ul {
 	list-style: none;
